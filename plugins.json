@@ -13,5 +13,19 @@
     "screenshots": [],
     "verified": true,
     "sera_min_version": "4.0.0"
+  },
+  {
+    "id": "sera-plugin-semaforo",
+    "name": "Semáforo de Vencimientos ⏰",
+    "version": "1.0.0",
+    "description": "Monitorea y calcula dinámicamente el estado de los plazos de tus registros. Soporta detección inteligente automática o configuración personalizada en un click.",
+    "author": "WolfTeI",
+    "icon": "alarm",
+    "tags": ["utility", "deadlines", "oficial"],
+    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-semaforo@1.0.0/dist/index.js",
+    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-semaforo@1.0.0/dist/style.css",
+    "repository": "https://github.com/carlosprost/sera-plugin-semaforo",
+    "verified": true,
+    "sera_min_version": "4.0.0"
   }
 ]
