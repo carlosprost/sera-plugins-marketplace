@@ -73,13 +73,13 @@
   {
     "id": "sera-plugin-redactor",
     "name": "Redactor de Datos PII 🛡️",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Máscara interactiva para columnas de datos sensibles (DNI, Teléfono, Correo, Dirección). Oculta la información de pantalla para evitar filtraciones y permite revelarla en un click.",
     "author": "WolfTeI",
     "icon": "visibility_off",
     "tags": ["security", "privacy", "utility", "oficial"],
-    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-redactor@v1.0.0/dist/index.js",
-    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-redactor@v1.0.0/dist/style.css",
+    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-redactor@v1.0.1/dist/index.js",
+    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-redactor@v1.0.1/dist/style.css",
     "repository": "https://github.com/carlosprost/sera-plugin-redactor",
     "verified": true,
     "sera_min_version": "4.0.0"
@@ -87,13 +87,13 @@
   {
     "id": "sera-plugin-barcode",
     "name": "Generador de Código de Barras 🏷️",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Dibuja de forma interactiva e interactúa con códigos de barras numéricos (EAN-13 y Code-128) de forma 100% offline.",
     "author": "WolfTeI",
     "icon": "qr_code",
     "tags": ["utility", "barcodes", "offline", "oficial"],
-    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-barcode@v1.0.0/dist/index.js",
-    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-barcode@v1.0.0/dist/style.css",
+    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-barcode@v1.0.1/dist/index.js",
+    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-barcode@v1.0.1/dist/style.css",
     "repository": "https://github.com/carlosprost/sera-plugin-barcode",
     "verified": true,
     "sera_min_version": "4.0.0"
