@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sera-hello-world",
+    "name": "Hello SERA 👋",
+    "version": "1.0.0",
+    "description": "Plugin de demostración oficial. Agrega un widget de bienvenida al Dashboard y un botón al Ribbon para enviar notificaciones de prueba. Perfecto para aprender a desarrollar tus propios plugins.",
+    "author": "WolfTeI",
+    "icon": "waving_hand",
+    "tags": ["demo", "starter", "oficial"],
+    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-hello-world@1.0.0/dist/index.js",
+    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-hello-world@1.0.0/dist/style.css",
+    "repository": "https://github.com/carlosprost/sera-plugin-hello-world",
+    "screenshots": [],
+    "verified": true,
+    "sera_min_version": "4.0.0"
+  }
+]
