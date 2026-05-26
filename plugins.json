@@ -31,13 +31,13 @@
   {
     "id": "sera-plugin-cuit",
     "name": "Validador de CUIT/CUIL 🇦🇷",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Valida la integridad de tus CUITs de forma automática (Módulo 11), formatea la grilla de datos de manera elegante e intercepta inserciones incorrectas en SQLite.",
     "author": "WolfTeI",
     "icon": "verified_user",
     "tags": ["validation", "argentina", "oficial"],
-    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-cuit@v1.0.0/dist/index.js",
-    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-cuit@v1.0.0/dist/style.css",
+    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-cuit@v1.0.1/dist/index.js",
+    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-cuit@v1.0.1/dist/style.css",
     "repository": "https://github.com/carlosprost/sera-plugin-cuit",
     "verified": true,
     "sera_min_version": "4.0.0"
