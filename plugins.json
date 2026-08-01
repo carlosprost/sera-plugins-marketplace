@@ -115,13 +115,13 @@
   {
     "id": "sera-plugin-documento",
     "name": "Creador de Documentos 📄",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Crea plantillas de texto dinámicas y realiza combinaciones de correspondencia (mail-merge) offline a partir de los datos de tus tablas, exportando a Markdown o TXT.",
     "author": "WolfTeI",
     "icon": "description",
     "tags": ["templates", "utility", "export", "oficial"],
-    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-documento@v1.0.0/dist/index.js",
-    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-documento@v1.0.0/dist/style.css",
+    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-documento@v1.1.0/dist/index.js",
+    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-documento@v1.1.0/dist/style.css",
     "repository": "https://github.com/carlosprost/sera-plugin-documento",
     "verified": true,
     "sera_min_version": "4.0.0"
