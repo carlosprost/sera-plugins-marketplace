@@ -50,8 +50,8 @@
     "author": "WolfTeI",
     "icon": "map",
     "tags": ["maps", "utility", "oficial"],
-    "entry_url": "https://raw.githubusercontent.com/carlosprost/sera-plugin-mapa/v1.0.6/dist/index.js",
-    "style_url": "https://raw.githubusercontent.com/carlosprost/sera-plugin-mapa/v1.0.6/dist/style.css",
+    "entry_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-mapa@main/dist/index.js",
+    "style_url": "https://cdn.jsdelivr.net/gh/carlosprost/sera-plugin-mapa@main/dist/style.css",
     "repository": "https://github.com/carlosprost/sera-plugin-mapa",
     "verified": true,
     "sera_min_version": "4.0.0"
